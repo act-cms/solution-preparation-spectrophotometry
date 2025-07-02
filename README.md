@@ -1,2 +1,2 @@
 # solution-preparation-spectrophotometry
-ACT-CMS modules to be made available on the ACT-CMS portal
+Jupyter notebook for data analysis in an Analytical Chemistry Laboratory using spectrophotometry as a test of solution preparation skills
